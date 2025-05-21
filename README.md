@@ -21,5 +21,15 @@ https://github.com/meanxai/machine_learning
 https://github.com/ageron/handson-ml3/tree/main
 
 
+Some Projects for practice:
+
+https://github.com/data-flair/machine-learning-projects?tab=readme-ov-file
+
+
+https://github.com/topics/machine-learning-project
+
+
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
 
 
